@@ -58,7 +58,7 @@ Removes a diploma record (admin-only functionality for demonstration purposes).
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourname/stellar-diploma-management.git
+git clone https://github.com/lakhongtoan/soroban
 cd stellar-diploma-management
 ```
 
